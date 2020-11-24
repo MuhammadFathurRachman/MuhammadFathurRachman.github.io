@@ -11651,7 +11651,7 @@ header {
 
 aside {
   padding-right: 57px;
-  min-width: 300px;
+  min-width: 320px;
 }
 
 @media (max-width: 767px) {
